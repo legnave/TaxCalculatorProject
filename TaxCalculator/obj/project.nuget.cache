@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "quwqBTO2nvU+LWr0Eug0rW85Sp0XkKZEv4JY8RnPm126drfFyY3e6qYRbR6YLixcls5Qt2Icvp+/1hyCPDUO1g==",
+  "dgSpecHash": "d6HPMlQSJ/zUNkQy6iYKhgBrt9my4958hluZHoJo2XxQSp4yqXnCZTFNqgCS95qiiZ3Te4ZPPAZNUFc6iihpjA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\NSIA\\source\\repos\\TaxCalculator\\TaxCalculator.csproj",
+  "projectFilePath": "C:\\Users\\NSIA\\source\\repos\\TaxCalculatorProject\\TaxCalculatorProject\\TaxCalculator\\TaxCalculator.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\NSIA\\.nuget\\packages\\castle.core\\5.1.1\\castle.core.5.1.1.nupkg.sha512",
     "C:\\Users\\NSIA\\.nuget\\packages\\entityframework\\6.4.4\\entityframework.6.4.4.nupkg.sha512",

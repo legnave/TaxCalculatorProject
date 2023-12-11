@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\NSIA\\source\\repos\\TaxCalculator\\TaxCalculator.csproj": {}
+    "C:\\Users\\NSIA\\source\\repos\\TaxCalculatorProject\\TaxCalculatorProject\\TaxCalculator\\TaxCalculator.csproj": {}
   },
   "projects": {
-    "C:\\Users\\NSIA\\source\\repos\\TaxCalculator\\TaxCalculator.csproj": {
+    "C:\\Users\\NSIA\\source\\repos\\TaxCalculatorProject\\TaxCalculatorProject\\TaxCalculator\\TaxCalculator.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\NSIA\\source\\repos\\TaxCalculator\\TaxCalculator.csproj",
+        "projectUniqueName": "C:\\Users\\NSIA\\source\\repos\\TaxCalculatorProject\\TaxCalculatorProject\\TaxCalculator\\TaxCalculator.csproj",
         "projectName": "TaxCalculator",
-        "projectPath": "C:\\Users\\NSIA\\source\\repos\\TaxCalculator\\TaxCalculator.csproj",
+        "projectPath": "C:\\Users\\NSIA\\source\\repos\\TaxCalculatorProject\\TaxCalculatorProject\\TaxCalculator\\TaxCalculator.csproj",
         "packagesPath": "C:\\Users\\NSIA\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\NSIA\\source\\repos\\TaxCalculator\\obj\\",
+        "outputPath": "C:\\Users\\NSIA\\source\\repos\\TaxCalculatorProject\\TaxCalculatorProject\\TaxCalculator\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
