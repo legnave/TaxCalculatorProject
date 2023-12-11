@@ -1,0 +1,14 @@
+﻿<!-- Views/Tax/Index.cshtml -->
+@model TaxCalculator.Models.TaxCalculation
+
+<h2>Tax Calculator</h2>
+
+<form method="post" asp-action="CalculateTax">
+    <label for="AnnualIncome">Annual Income:</label>
+    <input type="text" name="AnnualIncome" value="@Model?.AnnualIncome" required />
+
+    <label for="PostalCode">Postal Code:</label>
+    <input type="text" name="PostalCode" value="@Model?.PostalCode" required />
+
+    <button type="submit">Calculate Tax</button>
+</form>
